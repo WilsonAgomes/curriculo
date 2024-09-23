@@ -5,6 +5,11 @@
     box-sizing: border-box;
 }
 
+#center{
+    margin-top: 20px;
+    padding: 10px;
+}
+
 body {
     background-color: black;
     color: white;
@@ -13,8 +18,20 @@ body {
     padding: 20px;
 }
 
+#sobre{
+    margin-top: 30px;
+}
+
 #apresentacao {
     text-align: center;
+}
+
+#experiencia{
+    margin-top: 30px;
+}
+
+#formacao{
+    margin-top: 30px;
 }
 
 h1, h3, h4 {
@@ -60,6 +77,10 @@ th, td {
 
 th {
     background-color: #333;
+}
+
+.endereco{
+    margin: 30px;
 }
 
 tr:nth-child(even) {
